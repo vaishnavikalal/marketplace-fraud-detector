@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data files — large CSVs not tracked in git
+# (regenerate with python step1_generate_data.py)
+data/amazon_reviews.csv
+data/predictions.csv
+
+# Keep these in git (small, useful to show)
+!data/products.csv
+!data/product_features.csv
+
+# Outputs — keep the PNGs for README rendering
+# Regenerate with python run_all.py
+
+# OS
+Thumbs.db
+.DS_Store
