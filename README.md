@@ -231,11 +231,7 @@ python step5_insights.py             # Generate executive summary
 
 ---
 
-## 📝 Resume Bullet
 
-> Replicated Amazon's seller integrity fraud-detection framework across 500 simulated marketplace sellers and 23,000+ reviews; engineered 6 behavioral anomaly signals (velocity burst, TF-IDF duplicate phrasing, unverified ratio), trained a Random Forest classifier achieving ROC-AUC of 1.0, and delivered a 4-chart executive dashboard with strategic recommendations — mirroring the methodology behind Amazon's FTC-cited fraud reduction program.
-
----
 
 <div align="center">
 
